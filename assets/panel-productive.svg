@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="190" viewBox="0 0 760 190">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .card { fill: #161b22; stroke: #30363d; stroke-width: 1; }
+      .h1 { font: 600 14px "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #c9d1d9; }
+      .txt { font: 500 12px "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #c9d1d9; }
+      .muted { font: 500 12px "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #8b949e; }
+      .barBg { fill: #30363d; }
+      .barFg { fill: #c9d1d9; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="760" height="190" class="bg"/>
+  <rect x="14" y="16" width="732" height="158" rx="10" class="card"/>
+
+  <text x="34" y="44" class="h1">I'm Most Productive on Monday</text>
+
+  <g transform="translate(34 60)">
+    <g>
+      <text x="0" y="14" class="txt">Monday</text>
+      <text x="120" y="14" class="muted">338 commits</text>
+      <rect x="260" y="3" width="320" height="12" rx="6" class="barBg"/>
+      <rect x="260" y="3" width="151" height="12" rx="6" class="barFg"/>
+      <text x="600" y="14" class="muted">23.64%</text>
+    </g>
+    <g transform="translate(0 24)">
+      <text x="0" y="14" class="txt">Tuesday</text>
+      <text x="120" y="14" class="muted">242 commits</text>
+      <rect x="260" y="3" width="320" height="12" rx="6" class="barBg"/>
+      <rect x="260" y="3" width="108" height="12" rx="6" class="barFg"/>
+      <text x="600" y="14" class="muted">16.92%</text>
+    </g>
+    <g transform="translate(0 48)">
+      <text x="0" y="14" class="txt">Wednesday</text>
+      <text x="120" y="14" class="muted">245 commits</text>
+      <rect x="260" y="3" width="320" height="12" rx="6" class="barBg"/>
+      <rect x="260" y="3" width="109" height="12" rx="6" class="barFg"/>
+      <text x="600" y="14" class="muted">17.13%</text>
+    </g>
+    <g transform="translate(0 72)">
+      <text x="0" y="14" class="txt">Thursday</text>
+      <text x="120" y="14" class="muted">167 commits</text>
+      <rect x="260" y="3" width="320" height="12" rx="6" class="barBg"/>
+      <rect x="260" y="3" width="75" height="12" rx="6" class="barFg"/>
+      <text x="600" y="14" class="muted">11.68%</text>
+    </g>
+    <g transform="translate(0 96)">
+      <text x="0" y="14" class="txt">Friday</text>
+      <text x="120" y="14" class="muted">166 commits</text>
+      <rect x="260" y="3" width="320" height="12" rx="6" class="barBg"/>
+      <rect x="260" y="3" width="74" height="12" rx="6" class="barFg"/>
+      <text x="600" y="14" class="muted">11.61%</text>
+    </g>
+    <g transform="translate(0 120)">
+      <text x="0" y="14" class="txt">Saturday</text>
+      <text x="120" y="14" class="muted">148 commits</text>
+      <rect x="260" y="3" width="320" height="12" rx="6" class="barBg"/>
+      <rect x="260" y="3" width="66" height="12" rx="6" class="barFg"/>
+      <text x="600" y="14" class="muted">10.35%</text>
+    </g>
+    <g transform="translate(0 144)">
+      <text x="0" y="14" class="txt">Sunday</text>
+      <text x="120" y="14" class="muted">124 commits</text>
+      <rect x="260" y="3" width="320" height="12" rx="6" class="barBg"/>
+      <rect x="260" y="3" width="56" height="12" rx="6" class="barFg"/>
+      <text x="600" y="14" class="muted">8.67%</text>
+    </g>
+  </g>
+</svg>
+
