@@ -1,97 +1,80 @@
-
 <div align="center">
 
-<!-- 顶部打字机特效：动态介绍 -->
-
-<!-- 请将下面的 'lines=' 修改为你想要展示的标语 -->
-
-<a href="https://www.google.com/search?q=https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D30%26duration%3D3000%26pause%3D1000%26color%3D3FCF8E%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DJava%2BBackend%2BDeveloper%3BSpring%2BEcosystem%2BExpert%3BNLP%2B%2526%2BAI%2BEnthusiast%3BBuilding%2BReliable%2BSystems" alt="Typing SVG" />
+<!-- Typing Effect Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3FCF8E&center=true&vCenter=true&width=500&lines=Java%20%26%20Spring%20Boot%20Dev%3BBackend%20System%20Architect%3BMySQL%20%26%20Redis%20Specialist%3BDocker%20%26%20Linux%20Ninja%3BPython%20%26%20PyTorch%20Explorer" alt="Typing SVG" />
 </a>
 
-<!-- 简单的自我介绍 -->
-
+<!-- Intro -->
 <h3>👋 你好! 我是 <span style="color: #3FCF8E;">4iKZ</span></h3>
 
 <p align="center" style="max-width: 600px;">
-我是一名专注于 <b>Spring 生态系统</b> 和 <b>自然语言处理 (NLP)</b> 的 Java 后端开发者。
 
 
+你好！我是 **郝思远**，一名深耕 **Java 后端生态** 并积极探索 **AI 工程化** 的开发者。
 
+ **技术专注点：**
+ - **后端架构**：精通 **Spring Boot** 微服务体系，致力于构建高性能、**高可用** 的分布式系统。
+- **数据优化**：擅长 **MySQL** 复杂查询优化及 **Redis** 高并发缓存设计。
+- **AI 赋能**：热衷于 **NLP (自然语言处理)** 领域，熟练运用 **Python** 与 **PyTorch** 探索 AI 能力与后端架构的深度融合。
 
-我热衷于构建高可用的服务、数据库优化，并探索后端架构与 AI 的结合点。
-目前就读于辽宁科技大学。
+🛠 **工具箱：**
+- **Language**: Java, Python, SQL
+- **Frameworks**: Spring Boot, PyTorch
+- **DevOps**: Docker, Git
+
+** “追求优雅的代码逻辑，持续在工程实践中寻找 AI 的落地最优解。” **
+欢迎通过 Issue 或邮件与我交流合作！
 </p>
 
-<!-- 动态统计卡片区域 -->
+<!-- Stats -->
 
-<!-- 注意：请将所有链接中的 '你的GitHub用户名' 替换为你真实的 GitHub ID -->
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-<!-- 左侧：核心统计 (包含 Star 数，PR 数，提交数等) -->
-<img height="180" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D%E4%BD%A0%E7%9A%84GitHub%E7%94%A8%E6%88%B7%E5%90%8D%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D1a1b27%26title_color%3D70a5fd%26icon_color%3Dbf91f3" />
-
-<!-- 右侧：常用语言分布 -->
-
-<img height="180" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D%E4%BD%A0%E7%9A%84GitHub%E7%94%A8%E6%88%B7%E5%90%8D%26layout%3Dcompact%26hide_border%3Dtrue%26theme%3Dtokyonight%26bg_color%3D1a1b27%26title_color%3D70a5fd" />
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=4iKZ&show_icons=true&theme=cobalt&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4iKZ&layout=compact&hide_border=true&theme=cobalt&bg_color=1a1b27&title_color=70a5fd" />
 </div>
 
-<!-- 连续打卡统计 (Streak Stats) -->
+<!-- Streak -->
 
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D%E4%BD%A0%E7%9A%84GitHub%E7%94%A8%E6%88%B7%E5%90%8D%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D1a1b27%26ring%3D70a5fd%26currStreakLabel%3D70a5fd" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4iKZ&theme=cobalt&hide_border=true&background=1a1b27&ring=70a5fd&currStreakLabel=70a5fd" alt="GitHub Streak" />
 
-<!-- 技术栈徽章区域 -->
 
+<!-- Tech Stack -->
 <h3>🛠️ Tech Stack & Tools</h3>
 
 <p>
-<!-- Java -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Dopenjdk%26logoColor%3Dwhite" />
-<!-- Spring Boot -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring_Boot-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring-boot%26logoColor%3Dwhite" />
-<!-- MySQL -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-005C84%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" />
-<!-- Redis -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Redis-DC382D%3Fstyle%3Dfor-the-badge%26logo%3Dredis%26logoColor%3Dwhite" />
-<!-- Docker -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" />
-<!-- Git -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GIT-E44C30%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
-<!-- Python (因提到NLP) -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
-<!-- Pytorch (因提到NLP) -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PyTorch-EE4C2C%3Fstyle%3Dfor-the-badge%26logo%3Dpytorch%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-<!-- 底部社交链接 -->
-
+<!-- Socials -->
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/%E4%BD%A0%E7%9A%84GitHub%E7%94%A8%E6%88%B7%E5%90%8D" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/github-%2523121011.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub">
-</a>
-&nbsp;
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/%E4%BD%A0%E7%9A%84LinkedInID/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="mailto:你的邮箱@example.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Gmail">
-</a>
-&nbsp;
-<!-- 如果你有个人博客 -->
-<a href="https://www.google.com/search?q=https://%E4%BD%A0%E7%9A%84%E5%8D%9A%E5%AE%A2%E9%93%BE%E6%8E%A5.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-000000%3Fstyle%3Dfor-the-badge%26logo%3DAbout.me%26logoColor%3Dwhite" alt="Website">
-</a>
+  <a href="https://github.com/4iKZ" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/luminablog.cn/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:syhaox@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
 
-<!-- 底部贪吃蛇动画 (可选) -->
-
-<!-- 注意：这个动画通常需要配置 GitHub Actions 才能生效。如果你没配置 Actions，可以删除下面这行 -->
+<!-- Snake Animation -->
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/%E4%BD%A0%E7%9A%84GitHub%E7%94%A8%E6%88%B7%E5%90%8D/%E4%BD%A0%E7%9A%84GitHub%E7%94%A8%E6%88%B7%E5%90%8D/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/%E4%BD%A0%E7%9A%84GitHub%E7%94%A8%E6%88%B7%E5%90%8D/%E4%BD%A0%E7%9A%84GitHub%E7%94%A8%E6%88%B7%E5%90%8D/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://www.google.com/search?q=https://raw.githubusercontent.com/%E4%BD%A0%E7%9A%84GitHub%E7%94%A8%E6%88%B7%E5%90%8D/%E4%BD%A0%E7%9A%84GitHub%E7%94%A8%E6%88%B7%E5%90%8D/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4iKZ/4iKZ/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4iKZ/4iKZ/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/4iKZ/4iKZ/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
