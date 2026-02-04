@@ -34,6 +34,10 @@ Hello! I am **4iKZ**, a developer deeply involved in the **Java backend ecosyste
 "Pursuing elegant code logic and continuously seeking the optimal solutions for AI implementation in engineering practice." Welcome to contact me for collaboration via Issue or email!
 </p>
 
+<br/>
+<img alt="Rick and Morty" width="760" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lI4bYmcsPJX9Go/giphy.gif" />
+<br/>
+
 <!-- Stats -->
 
 <!-- <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
