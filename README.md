@@ -6,11 +6,26 @@
 </a>
 
 <!-- Intro -->
-<h3>Hello! I'm <span style="color: #3FCF8E;">4iKZ</span></h3>
+<h2>Hello! I'm <span style="color: #3FCF8E;">4iKZ</span></h2>
+
+
+<!-- Socials -->
+<div align="center">
+  <a href="https://github.com/4iKZ" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/luminablog.cn/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:syhaox@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 
 
 <!-- Snake Animation -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4iKZ/4iKZ/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4iKZ/4iKZ/output/github-contribution-grid-snake.svg">
@@ -76,20 +91,7 @@ Hello! I am **4iKZ**, a developer deeply involved in the **Java backend ecosyste
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-<!-- Socials -->
-<div align="center">
-  <a href="https://github.com/4iKZ" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/luminablog.cn/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="mailto:syhaox@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
+
 
 
 
