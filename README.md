@@ -18,10 +18,10 @@
   **数据优化**：擅长 **MySQL** 复杂查询优化及 **Redis** 高并发缓存设计。
   **AI 赋能**：热衷于 **NLP (自然语言处理)** 领域，熟练运用 **Python** 与 **PyTorch** 探索 AI 能力与后端架构的深度融合。
 
-🛠 **工具箱：**
-- **Language**: Java, Python, SQL
-- **Frameworks**: Spring Boot, PyTorch
-- **DevOps**: Docker, Git
+**工具箱：**
+  **Language**: Java, Python, SQL
+  **Frameworks**: Spring Boot, PyTorch
+  **DevOps**: Docker, Git
 
 ** “追求优雅的代码逻辑，持续在工程实践中寻找 AI 的落地最优解。” **
 欢迎通过 Issue 或邮件与我交流合作！
