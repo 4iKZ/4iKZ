@@ -9,7 +9,8 @@
 <h3>Hello! I'm <span style="color: #3FCF8E;">4iKZ</span></h3>
 
 <p align="center" style="max-width: 600px;">
-  
+
+<img alt="Rick and Morty" width="760" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lI4bYmcsPJX9Go/giphy.gif" />
 Hello! I am **4iKZ**, a developer deeply involved in the **Java backend ecosystem** and actively exploring **AI engineering**, currently studying at Liaoning University of Science and Technology.
 
 **Technical Focus:**
