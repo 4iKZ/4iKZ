@@ -6,17 +6,17 @@
 </a>
 
 <!-- Intro -->
-<h3>👋 你好! 我是 <span style="color: #3FCF8E;">4iKZ</span></h3>
+<h3>你好! 我是 <span style="color: #3FCF8E;">4iKZ</span></h3>
 
 <p align="center" style="max-width: 600px;">
 
 
-你好！我是 **郝思远**，一名深耕 **Java 后端生态** 并积极探索 **AI 工程化** 的开发者。
+你好！我是 **4iKZ**，一名深耕 **Java 后端生态** 并积极探索 **AI 工程化** 的开发者。
 
  **技术专注点：**
- - **后端架构**：精通 **Spring Boot** 微服务体系，致力于构建高性能、**高可用** 的分布式系统。
-- **数据优化**：擅长 **MySQL** 复杂查询优化及 **Redis** 高并发缓存设计。
-- **AI 赋能**：热衷于 **NLP (自然语言处理)** 领域，熟练运用 **Python** 与 **PyTorch** 探索 AI 能力与后端架构的深度融合。
+  **后端架构**：精通 **Spring Boot** 微服务体系，致力于构建高性能、**高可用** 的分布式系统。
+  **数据优化**：擅长 **MySQL** 复杂查询优化及 **Redis** 高并发缓存设计。
+  **AI 赋能**：热衷于 **NLP (自然语言处理)** 领域，熟练运用 **Python** 与 **PyTorch** 探索 AI 能力与后端架构的深度融合。
 
 🛠 **工具箱：**
 - **Language**: Java, Python, SQL
@@ -40,7 +40,7 @@
 
 
 <!-- Tech Stack -->
-<h3>🛠️ Tech Stack & Tools</h3>
+<h3>Tech Stack & Tools</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
