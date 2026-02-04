@@ -35,7 +35,7 @@ Hello! I am **4iKZ**, a developer deeply involved in the **Java backend ecosyste
 </p>
 
 <br/>
-<img alt="Rick and Morty" width="760" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lI4bYmcsPJX9Go/giphy.gif" />
+<img alt="Rick and Morty" width="760" src="https://syhaox.tos-cn-beijing.volces.com/old_book_system/covers/2026/02/04/bc7a8567-2e83-41fe-af08-27b2df0776f3.jpg" />
 <br/>
 
 <!-- Stats -->
