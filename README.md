@@ -8,6 +8,15 @@
 <!-- Intro -->
 <h3>Hello! I'm <span style="color: #3FCF8E;">4iKZ</span></h3>
 
+
+<!-- Snake Animation -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4iKZ/4iKZ/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4iKZ/4iKZ/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/4iKZ/4iKZ/output/github-contribution-grid-snake.svg">
+</picture>
+
 <p align="center" style="max-width: 600px;">
 <br/>
 <img alt="Rick and Morty" width="760" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lI4bYmcsPJX9Go/giphy.gif" />
@@ -82,12 +91,6 @@ Hello! I am **4iKZ**, a developer deeply involved in the **Java backend ecosyste
   </a>
 </div>
 
-<!-- Snake Animation -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4iKZ/4iKZ/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4iKZ/4iKZ/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/4iKZ/4iKZ/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
