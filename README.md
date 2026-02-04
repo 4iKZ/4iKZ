@@ -34,8 +34,8 @@ Hello! I am **4iKZ**, a developer deeply involved in the **Java backend ecosyste
 <!-- Stats -->
 
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=4iKZ&show_icons=true&theme=cobalt&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4iKZ&layout=compact&hide_border=true&theme=cobalt&bg_color=1a1b27&title_color=70a5fd" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=4iKZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4iKZ&layout=compact&hide_border=true&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd" />
 </div>
 
 <!-- Streak -->
