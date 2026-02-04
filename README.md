@@ -74,11 +74,11 @@ Hello! I am **4iKZ**, a developer deeply involved in the **Java backend ecosyste
 "Pursuing elegant code logic and continuously seeking the optimal solutions for AI implementation in engineering practice." Welcome to contact me for collaboration via Issue or email!
 </p>
 
-<br/>
+<!-- <br/>
 <a href="https://syhaox.tos-cn-beijing.volces.com/old_book_system/covers/2026/02/04/bc7a8567-2e83-41fe-af08-27b2df0776f3.jpg" target="_blank">
 <img alt="My Photo" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" src="https://www.google.com/search?q=https://syhaox.tos-cn-beijing.volces.com/old_book_system/covers/2026/02/04/bc7a8567-2e83-41fe-af08-27b2df0776f3.jpg%3Fv%3Drefresh" />
 </a>
-<br/>
+<br/> -->
 
 <!-- Stats -->
 
