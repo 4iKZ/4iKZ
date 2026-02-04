@@ -6,25 +6,28 @@
 </a>
 
 <!-- Intro -->
-<h3>你好! 我是 <span style="color: #3FCF8E;">4iKZ</span></h3>
+<h3>Hello! I'm <span style="color: #3FCF8E;">4iKZ</span></h3>
 
 <p align="center" style="max-width: 600px;">
+Hello! I am **4iKZ**, a developer deeply involved in the **Java backend ecosystem** and actively exploring **AI engineering**, currently studying at Liaoning University of Science and Technology.
 
+**Technical Focus:**
 
-你好！我是 **4iKZ**，一名深耕 **Java 后端生态** 并积极探索 **AI 工程化** 的开发者，目前就读于辽宁科技大学。
+**Backend Architecture:** Proficient in **Spring Boot** microservice architecture, dedicated to building high-performance, **highly available** distributed systems.
 
- **技术专注点：**
-  **后端架构**：精通 **Spring Boot** 微服务体系，致力于构建高性能、**高可用** 的分布式系统。
-  **数据优化**：擅长 **MySQL** 复杂查询优化及 **Redis** 高并发缓存设计。
-  **AI 赋能**：热衷于 **NLP (自然语言处理)** 领域，熟练运用 **Python** 与 **PyTorch** 探索 AI 能力与后端架构的深度融合。
+**Data Optimization:** Skilled in **MySQL** complex query optimization and **Redis** high-concurrency caching design.
 
-**工具箱：**
-  **Language**: Java, Python, SQL
-  **Frameworks**: Spring Boot, PyTorch
-  **DevOps**: Docker, Git
+**AI Empowerment:** Passionate about **NLP (Natural Language Processing)**, proficient in **Python** and **PyTorch** to explore the deep integration of AI capabilities with backend architecture.
 
- “追求优雅的代码逻辑，持续在工程实践中寻找 AI 的落地最优解。” 
-欢迎通过 Issue 或邮件与我交流合作！
+**Toolbox:**
+
+**Language:** Java, Python, SQL
+
+**Frameworks:** Spring Boot, PyTorch
+
+**DevOps:** Docker, Git
+
+"Pursuing elegant code logic and continuously seeking the optimal solutions for AI implementation in engineering practice." Welcome to contact me for collaboration via Issue or email!
 </p>
 
 <!-- Stats -->
