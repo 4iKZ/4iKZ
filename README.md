@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/luminablog.cn/" target="_blank">
+  <a href="https://www.linkedin.com/in/%E6%80%9D%E8%BF%9C-%E9%83%9D-7687b040b/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
