@@ -1,96 +1,88 @@
 <div align="center">
 
-<!-- Typing Effect Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3FCF8E&center=true&vCenter=true&width=500&lines=Java%20%26%20Spring%20Boot%20Dev%3BBackend%20System%20Architect%3BMySQL%20%26%20Redis%20Specialist%3BDocker%20%26%20Linux%20Ninja%3BPython%20%26%20PyTorch%20Explorer" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3FCF8E&center=true&vCenter=true&width=700&lines=Agent+Developer+for+AIOps;LLM+Agents+%C2%B7+Tool+Use+%C2%B7+Memory;Python+%C2%B7+Java+%C2%B7+Linux"
+    alt="Typing SVG"
+  />
 </a>
 
-<!-- Intro -->
-<h2>Hello! I'm <span style="color: #3FCF8E;">4iKZ</span></h2>
-
-<!-- Tech Stack -->
-<h3>Tech Stack & Tools</h3>
+<h2>Hi, I'm 4iKZ</h2>
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <b>Agent Developer focused on AIOps and LLM systems.</b>
 </p>
 
+<p>
+  Building AI agents that can observe, reason, use tools, and act.
+</p>
 
-
-<!-- Socials -->
-<div align="center">
-  <a href="https://github.com/4iKZ" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<p>
+  <a href="https://github.com/4iKZ">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/%E6%80%9D%E8%BF%9C-%E9%83%9D-7687b040b/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/%E6%80%9D%E8%BF%9C-%E9%83%9D-7687b040b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <a href="mailto:syhaox@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
   </a>
+</p>
+
 </div>
 
+## About
 
-<!-- Snake Animation -->
+I work on **AI Agents, AIOps, and LLM systems**.
+
+My current interests include:
+
+* Tool-using agents and MCP
+* Agent memory, retrieval, and reasoning
+* Knowledge extraction and knowledge graphs
+* LLM inference and model serving
+* AIOps automation and diagnosis
+
+I also have a backend engineering background with **Java, Spring Boot, databases, and distributed systems**.
+
+## Tech Stack
+
+**Agent & LLM**
+
+`LLM Agents` `MCP` `Tool Calling` `RAG` `Embeddings` `Knowledge Graph`
+
+**AI Infrastructure**
+
+`vLLM` `PyTorch` `Transformers` `Ollama`
+
+**Engineering**
+
+`Python` `Java` `Spring Boot` `PostgreSQL` `MySQL` `Redis` `Docker` `Linux`
+
+## Selected Projects
+
+* [Hyper-Extract](https://github.com/4iKZ/Hyper-Extract) — Knowledge extraction for LLM systems
+* [hermes-agent](https://github.com/4iKZ/hermes-agent) — Tool-using agent experiments
+* [pg-ripple](https://github.com/4iKZ/pg-ripple) — Graph-oriented knowledge infrastructure
+* [TEXT-TO-SQL](https://github.com/4iKZ/TEXT-TO-SQL) — Natural language interfaces for databases
+
+---
+
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4iKZ/4iKZ/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4iKZ/4iKZ/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/4iKZ/4iKZ/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/4iKZ/4iKZ/output/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/4iKZ/4iKZ/output/github-contribution-grid-snake.svg"
+  >
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/4iKZ/4iKZ/output/github-contribution-grid-snake.svg"
+  >
 </picture>
-
-<p align="center" style="max-width: 600px;">
-<br/>
-<img alt="Rick and Morty" width="760" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lI4bYmcsPJX9Go/giphy.gif" />
-<br/>
-
-Hello! I am **4iKZ**, a developer deeply involved in the **Java backend ecosystem** and actively exploring **AI engineering**.
-
-**Technical Focus:**
-
-**Backend Architecture:** Proficient in **Spring Boot** microservice architecture, dedicated to building high-performance, **highly available** distributed systems.
-
-**Data Optimization:** Skilled in **MySQL** complex query optimization and **Redis** high-concurrency caching design.
-
-**AI Empowerment:** Passionate about **NLP (Natural Language Processing)**, proficient in **Python** and **PyTorch** to explore the deep integration of AI capabilities with backend architecture.
-
-**Toolbox:**
-
-**Language:** Java, Python, SQL
-
-**Frameworks:** Spring Boot, PyTorch
-
-**DevOps:** Docker, Git
-
-"Pursuing elegant code logic and continuously seeking the optimal solutions for AI implementation in engineering practice." Welcome to contact me for collaboration via Issue or email!
-</p>
-
-<!-- <br/>
-<a href="https://syhaox.tos-cn-beijing.volces.com/old_book_system/covers/2026/02/04/bc7a8567-2e83-41fe-af08-27b2df0776f3.jpg" target="_blank">
-<img alt="My Photo" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" src="https://www.google.com/search?q=https://syhaox.tos-cn-beijing.volces.com/old_book_system/covers/2026/02/04/bc7a8567-2e83-41fe-af08-27b2df0776f3.jpg%3Fv%3Drefresh" />
-</a>
-<br/> -->
-
-<!-- Stats -->
-
-<!-- <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=4iKZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4iKZ&layout=compact&hide_border=true&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd" />
-</div> -->
-
-<!-- Streak -->
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4iKZ&theme=cobalt&hide_border=true&background=1a1b27&ring=70a5fd&currStreakLabel=70a5fd" alt="GitHub Streak" />
-
-
 
 </div>
